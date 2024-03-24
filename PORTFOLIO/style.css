@@ -84,7 +84,7 @@ header nav a{
 }
 
 #about h1, #skills h1, #projects h1, #contact h1{
-    text-align: right;
+    text-align: center;
     margin-right: 100px;
     margin-bottom: 30px;
     font-size: 4rem;
